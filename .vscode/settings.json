@@ -7,12 +7,13 @@
 		}
 	],
 	"Lua.workspace.library": [
-		"c:\\Program Files (x86)\\Steam\\steamapps\\common\\Factorio\\data",
-		"c:/Users/bment/AppData/Roaming/Code/User/workspaceStorage/d2c98228eed7b5d770da18a9f99719cb/justarandomgeek.factoriomod-debug/sumneko-3rd/factorio/library"
+		"c:/Users/bment/AppData/Roaming/Code/User/workspaceStorage/d2c98228eed7b5d770da18a9f99719cb/justarandomgeek.factoriomod-debug/sumneko-3rd/factorio/library",
+		"c:\\Program Files (x86)\\Steam\\steamapps\\common\\Factorio\\data"
 	],
 	"Lua.workspace.userThirdParty": [
 		"c:\\Users\\bment\\AppData\\Roaming\\Code\\User\\workspaceStorage\\d2c98228eed7b5d770da18a9f99719cb\\justarandomgeek.factoriomod-debug\\sumneko-3rd",
-		"c:\\Users\\bment\\AppData\\Roaming\\Code\\User\\workspaceStorage\\d7aa059d84d6625d8ad5ea8e83a46f5b\\justarandomgeek.factoriomod-debug\\sumneko-3rd"
+		"c:\\Users\\bment\\AppData\\Roaming\\Code\\User\\workspaceStorage\\d7aa059d84d6625d8ad5ea8e83a46f5b\\justarandomgeek.factoriomod-debug\\sumneko-3rd",
+		"c:\\Users\\bment\\AppData\\Roaming\\Code\\User\\workspaceStorage\\d39aa63ec854c1f8d27b968174e1e426\\justarandomgeek.factoriomod-debug\\sumneko-3rd"
 	],
 	"Lua.runtime.builtin": {
 		"io": "disable",
